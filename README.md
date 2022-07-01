@@ -10,4 +10,4 @@
   ##
   
   
-![snake gif](https://github.com/Joao-V-Dias/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Joao-V-Dias/Joao-V-Dias/blob/output/github-contribution-grid-snake.svg)
