@@ -1,4 +1,3 @@
-## 🌐 Socials:
 
 <div align="center">
 
@@ -17,7 +16,7 @@
 </div>
 
 
-## 💻 Tech Stack:
+
 
 <div align="center">
 
@@ -25,7 +24,7 @@
 
 </div>
 
-## 📊 GitHub Stats:
+
 
 <div align="center">
 
